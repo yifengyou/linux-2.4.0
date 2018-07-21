@@ -1,6 +1,6 @@
 # linux-2.4.0 内核学习笔记
 
-本仓库已经开始作为gitbook仓库，访问地址
+本仓库已经开始作为GitBook仓库，访问地址
 
 <https://yifengyou.gitbooks.io/linux-2-4-0/content/>
 
@@ -44,3 +44,8 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 ## 个人的一些看法
 
 ## 总结
+
+```
+  1.基础永远值得花费90%的精力去学习加强。厚积而薄发~
+  2.要理解一个软件系统的真正运行机制，一定要阅读其源代码~
+```
